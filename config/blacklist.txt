@@ -38,7 +38,7 @@ celexa
 celebrex
 cephalexin
 chloroquine
-cialis
+\bcialis\b
 cipro
 citalopram
 cleocin
